@@ -1,0 +1,5 @@
+albums_*
+releases_*
+.cache
+.venv
+config.json
